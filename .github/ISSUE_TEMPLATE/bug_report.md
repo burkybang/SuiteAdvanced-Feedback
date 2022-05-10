@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report for a problem
 title: ''
-labels: bug, enhancement
+labels: bug
 assignees: burkybang
 
 ---
