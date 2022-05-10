@@ -2,26 +2,44 @@
 name: Bug report
 about: Create a report for a problem
 title: ''
-labels: bug
+labels: bug, enhancement
 assignees: burkybang
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+_A clear and concise description of what the bug is._
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to *URL*
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Answer: 
+
+___
+
+**How to reproduce**
+_Describe steps to reproduce the behavior. Example:_
+1. _Go to *URL*_
+2. _Click on...._
+3. _Scroll down to...._
+4. _See error_
+
+Answer: 
+
+___
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+_A clear and concise description of what you expected to happen._
+
+Answer: 
+
+___
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+_If applicable, add screenshots to help explain your problem._
+
+Answer: 
+
+___
 
 **Additional context**
-Add any other context about the problem here.
+_Add any other context about the problem here._
+
+Answer:
