@@ -1,3 +1,7 @@
+![Chrome Extension Version](https://img.shields.io/chrome-web-store/v/eambkjlkacecjilgcdmicbpnhkfhdiee?label=version&logo=google-chrome&logoColor=ffce43)
+![Chrome Extension Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fburkybang.com%2Fchrome_extension_users%2F%3Faction%3Dget%26id%3Deambkjlkacecjilgcdmicbpnhkfhdiee%26output%3Dshields-io%26number-only%3D1&logoColor=ffce43)
+![Chrome Extension Rating](https://img.shields.io/chrome-web-store/stars/eambkjlkacecjilgcdmicbpnhkfhdiee?logo=google-chrome&logoColor=ffce43)
+
 ## Download
 
 [![SuiteAdvanced on the Chrome Web Store](https://github.com/burkybang/burkybang/raw/master/Images/chrome-web-store.png "SuiteAdvanced on the Chrome Web Store")](https://chrome.google.com/webstore/detail/eambkjlkacecjilgcdmicbpnhkfhdiee)
