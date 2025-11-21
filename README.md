@@ -1,12 +1,12 @@
 # [SuiteAdvanced.com](https://SuiteAdvanced.com/?utm_source=github.com&utm_medium=feedback-readme&utm_campaign=feedback-readme "SuiteAdvanced.com")
 
 ![Chrome Extension Version](https://img.shields.io/chrome-web-store/v/eambkjlkacecjilgcdmicbpnhkfhdiee?label=version&logo=google-chrome&logoColor=ffce43)
-![Chrome Extension Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fburkybang.com%2Fchrome_extension_users%2F%3Faction%3Dget%26id%3Deambkjlkacecjilgcdmicbpnhkfhdiee%26output%3Dshields-io%26number-only%3D1&logoColor=ffce43)
 ![Chrome Extension Rating](https://img.shields.io/chrome-web-store/stars/eambkjlkacecjilgcdmicbpnhkfhdiee?logo=google-chrome&logoColor=ffce43)
+![Chrome Extension Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fburkybang.com%2Fchrome_extension_users%2F%3Faction%3Dget%26id%3Deambkjlkacecjilgcdmicbpnhkfhdiee%26output%3Dshields-io%26number-only%3D1&logoColor=ffce43)
 
 ![Mozilla Firefox Version](https://img.shields.io/amo/v/suiteadvanced?label=version&logo=firefox-browser)
-![Mozilla Firefox Users](https://img.shields.io/amo/users/suiteadvanced?logo=firefox-browser&color=orange)
 ![Mozilla Firefox Rating](https://img.shields.io/amo/stars/suiteadvanced?label=rating&logo=firefox-browser)
+![Mozilla Firefox Users](https://img.shields.io/amo/users/suiteadvanced?logo=firefox-browser&color=orange)
 
 ## Download
 
